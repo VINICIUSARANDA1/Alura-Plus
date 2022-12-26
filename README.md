@@ -1,3 +1,3 @@
 # Alura-Plus
 
-<p> Projeto criando em html e css <p/>
+Projeto desenvolvido em HTML e CSS, é uma plataforma de cursos de programação. 
